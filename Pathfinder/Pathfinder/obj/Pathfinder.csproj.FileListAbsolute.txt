@@ -1,0 +1,8 @@
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\Pathfinder.Form1.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\Pathfinder.Properties.Resources.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\Pathfinder.csproj.GenerateResource.Cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\bin\Debug\Pathfinder.pdb
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\Pathfinder.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\Pathfinder\Pathfinder\obj\Debug\Pathfinder.pdb
