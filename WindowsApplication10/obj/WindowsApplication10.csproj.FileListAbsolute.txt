@@ -1,0 +1,8 @@
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Properties.Resources.resources
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.csproj.GenerateResource.Cache
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+C:\Documents and Settings\Evanescence\Belgelerim\Visual Studio 2005\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
